@@ -1,0 +1,4 @@
+*.pyc
+.env
+font
+image
